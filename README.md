@@ -26,7 +26,7 @@ Next.js · Firebase (Firestore, real-time listeners) · Twilio · SendGrid · Bl
 
 ⚙️ Running locally
 
-git clone https://github.com/your self/aura-trace.git
+git clone https://github.com/yourself/aura-trace.git
 
 cd auratrace
 
