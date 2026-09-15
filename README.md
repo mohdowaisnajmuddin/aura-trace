@@ -25,7 +25,7 @@ A device recovery and anti-theft monitoring system that scopes every claim to wh
 Next.js · Firebase (Firestore, real-time listeners) · Twilio · SendGrid · Bluetooth LE
 
 ⚙️ Running locally
-git clone https://github.com/mohdowaisnajmuddin/auratrace.git
+git clone https://github.com/mohdowaisnajmuddin/aura-trace.git
 cd auratrace
 npm install
 npm run dev
