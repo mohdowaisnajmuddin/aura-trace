@@ -1,0 +1,7 @@
+{
+  "name": "AuraTrace",
+  "description": "Device recovery and anti-theft monitoring system featuring real-time risk scoring, SIM state change alerts, and location anomaly detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
