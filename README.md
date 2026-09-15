@@ -25,9 +25,13 @@ A device recovery and anti-theft monitoring system that scopes every claim to wh
 Next.js · Firebase (Firestore, real-time listeners) · Twilio · SendGrid · Bluetooth LE
 
 ⚙️ Running locally
-git clone https://github.com/mohdowaisnajmuddin/aura-trace.git
+
+git clone https://github.com/your self/aura-trace.git
+
 cd auratrace
+
 npm install
+
 npm run dev
 
 Requires Firebase, Twilio, and SendGrid credentials in a local .env file (never commit this — see .gitignore).
